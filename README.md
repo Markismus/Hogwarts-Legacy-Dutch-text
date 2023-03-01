@@ -9,7 +9,7 @@ So I used the explanation from here: https://modding.wiki/en/hogwartslegacy/deve
 5. Appended everything in a plain json-file and fed it to parceltongue
 6. Parceltongue gives exits with errors on line and character position.
 7. Edited all syntax problems introduced by Google to json-format and refed it to parceltongue creating a binary-file.
-8. Put the binary-files in the correct directory structure ( packagename\Phoenix\Content\Localization\WIN64 )and packaged it with compression to pak-file.
+8. Put the binary-files in the correct directory structure ( `packagename\Phoenix\Content\Localization\WIN64` ) and packaged it with compression to pak-file.
 
 In this repository will be the json-files and the pak-file.
-The pak-file should be in the mods directory in the pak directory. It will override any files that are identically named.
+The pak-file should be in `Hogwarts Legacy/Phoenix/Content/Paks/~mods`. It will override any files that are identically named.
