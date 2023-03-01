@@ -1,8 +1,8 @@
 # Hogwarts-Legacy-Dutch-text
 As my daughters aren't fluent yet in English, they found it welcome to use Dutch text instead of English.
 
-I used the explanation from here: https://modding.wiki/en/hogwartslegacy/developers/localisation
-I repeated it at the bottom of this readme.
+I used the explanation from [modding.wiki](https://modding.wiki/en/hogwartslegacy/developers/localisation).
+(I repeated the contents at the bottom of this readme.)
 
 
 
