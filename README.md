@@ -2,6 +2,8 @@
 As my daughters aren't fluent yet in English, they found it welcome to use Dutch text instead of English.
 In Dutch: Nederlandse vervanging van engelse tekst in het gehele spel.
 
+Look at the [releases](https://github.com/Markismus/Hogwarts-Legacy-Dutch-text/releases) to get the modded-pak file to use with your PC game of Hogwarts Legacy.
+
 I used the explanation from [modding.wiki](https://modding.wiki/en/hogwartslegacy/developers/localisation).
 (I repeated the contents at the bottom of this readme.)
 
