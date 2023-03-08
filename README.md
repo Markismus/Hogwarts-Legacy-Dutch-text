@@ -1,6 +1,19 @@
 # Hogwarts-Legacy-Dutch-text
 As my daughters aren't fluent yet in English, they found it welcome to use Dutch text instead of English.
-In Dutch: Nederlandse vervanging van engelse tekst in het gehele spel.
+
+For native Dutch speakers:
+Dit is een vertaling van alle text van Hogwarts Legacy in het Nederlands. 
+1. De eerste versies zijn een directe vertaling uit het Duits naar het Nederlands door Google translate. 
+2. Daarna zijn door scripten correcties of the syntax van het vertalingssysteem doorgevoerd. 
+3. Uiteindelijk zijn we op het punt dat slechte vertalingen verbeterd worden door handmatige correcties. Zo werden bijvoorbeeld 'Butterbeer' en 'Charms' niet vertaald. Ook blijken idiomen onvertaald, zoals bijvoorbeeld het Engelse 'Copy that professor.' vertaald was als 'Kopieer die professor.' Blijkbaar zijn dus ook in de Duitse vertalingen idiomen oftewel onvertaald oftewel verkeerd vertaald.
+Je kan de vertaling op je PC installatie van Hogwarts Legacy installeren, door Hogwarts Legacy in te stellen op Engels en in de map `Hogwarts Legacy/Phoenix/Content/Paks/~mods` het PAK-bestand te plaatsen dat onder `Releases` te vinden is op de `Code` pagina van deze `repository`. Deïnstallatie doe je door het bestand weer te verwijderen.
+
+Als je mee wilt werken aan de verbetering van de vertaling is dat uiterst welkom. :)\
+De tekst staat in twee bestanden, namelijk MAINnlNL.json en SUBnlNL.json. \
+JSON is een format dat werkt met een Engels sleutelwoord tussen aanhalingstekens, gevolgd door een dubbele punt en spatie, gevolgd door een vervangingstekst tussen aanhalingstekens in de relevante taal en afgesloten door een komma. Bijvoorbeeld `"Chest": "Chest",` (Engels), `"Chest": "Trube",` (Duits) en `"Chest": "Kist",` (Nederlands).\
+Als je een tekstfragment tegenkomt dat niet klopt, dan kan je het letterlijke fragment citeren en een vervangend fragment voorstellen. Dit door je door een `issue` te openen en de tekstfragmenten op te schrijven. Ik zal de issue's dan meenemen in de volgende versie van de bestanden.
+Je kan ook deze 'repository' 'forken' en correcties maken in je eigen JSON-bestanden en deze als pull-requests indienen, welke ik alleen hoef te 'mergen' in de 'master'-bestanden. Ik stel het op prijs als je zelf de JSON-bestanden test, door ze met parseltongue te converteren naar bin-standen en in te pakken tot PAK-bestand met unrealpak. De handleiding voor deze middelen is herhaald onderaan deze pagina.
+
 
 Look at the [releases](https://github.com/Markismus/Hogwarts-Legacy-Dutch-text/releases) to get the modded-pak file to use with your PC game of Hogwarts Legacy.
 
