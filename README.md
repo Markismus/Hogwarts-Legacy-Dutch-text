@@ -1,11 +1,12 @@
 # Hogwarts-Legacy-Dutch-text
 As my daughters aren't fluent yet in English, they found it welcome to use Dutch text instead of English.
 
-For native Dutch speakers:
+## For native Dutch readers:
 Dit is een vertaling van alle text van Hogwarts Legacy in het Nederlands. 
 1. De eerste versies zijn een directe vertaling uit het Duits naar het Nederlands door Google translate. 
 2. Daarna zijn door scripten correcties of the syntax van het vertalingssysteem doorgevoerd. 
-3. Uiteindelijk zijn we op het punt dat slechte vertalingen verbeterd worden door handmatige correcties. Zo werden bijvoorbeeld 'Butterbeer' en 'Charms' niet vertaald. Ook blijken idiomen onvertaald, zoals bijvoorbeeld het Engelse 'Copy that professor.' vertaald was als 'Kopieer die professor.' Blijkbaar zijn dus ook in de Duitse vertalingen idiomen oftewel onvertaald oftewel verkeerd vertaald.
+3. Uiteindelijk zijn we op het punt dat slechte vertalingen verbeterd worden door handmatige correcties. Zo werden bijvoorbeeld 'Butterbeer' en 'Charms' niet vertaald. Ook blijken idiomen onvertaald, zoals bijvoorbeeld het Engelse 'Copy that professor.' vertaald was als 'Kopieer die professor.' Blijkbaar zijn dus ook in de Duitse vertalingen idiomen oftewel onvertaald oftewel verkeerd vertaald.\
+
 Je kan de vertaling op je PC installatie van Hogwarts Legacy installeren, door Hogwarts Legacy in te stellen op Engels en in de map `Hogwarts Legacy/Phoenix/Content/Paks/~mods` het PAK-bestand te plaatsen dat onder `Releases` te vinden is op de `Code` pagina van deze `repository`. Deïnstallatie doe je door het bestand weer te verwijderen.
 
 Als je mee wilt werken aan de verbetering van de vertaling is dat uiterst welkom. :)\
@@ -14,7 +15,7 @@ JSON is een format dat werkt met een Engels sleutelwoord tussen aanhalingstekens
 Als je een tekstfragment tegenkomt dat niet klopt, dan kan je het letterlijke fragment citeren en een vervangend fragment voorstellen. Dit door je door een `issue` te openen en de tekstfragmenten op te schrijven. Ik zal de issue's dan meenemen in de volgende versie van de bestanden.
 Je kan ook deze 'repository' 'forken' en correcties maken in je eigen JSON-bestanden en deze als pull-requests indienen, welke ik alleen hoef te 'mergen' in de 'master'-bestanden. Ik stel het op prijs als je zelf de JSON-bestanden test, door ze met parseltongue te converteren naar bin-standen en in te pakken tot PAK-bestand met unrealpak. De handleiding voor deze middelen is herhaald onderaan deze pagina.
 
-
+## For English readers:
 Look at the [releases](https://github.com/Markismus/Hogwarts-Legacy-Dutch-text/releases) to get the modded-pak file to use with your PC game of Hogwarts Legacy.
 
 I used the explanation from [modding.wiki](https://modding.wiki/en/hogwartslegacy/developers/localisation).
@@ -35,14 +36,7 @@ In this repository will be the json-files and the pak-file.
 The pak-file should be in `Hogwarts Legacy/Phoenix/Content/Paks/~mods`. It will override any files that are identically named.
 
 
-
-
-
-
-
-
-
-# Repeat of the explanation from modding.wiki:
+## Repeat of the explanation from modding.wiki:
 <small>
 <div style="font-size: smaller;"><p>This tutorial is courtesy of <a href="https://hamstersquad.github.io/" class="is-external-link">tucker</a> from the Hogwarts Legacy Modding discord server.</p> <h1 id="tools-needed" class="toc-header"><a href="#tools-needed" class="toc-anchor">¶</a> Tools needed</h1> <ul><li><a href="https://www.fluffyquack.com/tools/unrealpak.rar" class="is-external-link">UnrealPak’s fluffyquack</a> - for packing .pak file</li> <li><a href="https://github.com/4sval/FModel" class="is-external-link">https://github.com/4sval/FModel</a> - for extracting stuff from .pak</li> <li><a href="https://github.com/lordvoldem0rt/parseltongue" class="is-external-link">https://github.com/lordvoldem0rt/parseltongue</a> - for converting .bin files</li></ul> <h1 id="extracting-files-with-fmodel" class="toc-header"><a href="#extracting-files-with-fmodel" class="toc-anchor">¶</a> Extracting files with Fmodel</h1> <ol><li><strong>Open your Fmodel and select the game location</strong><br> <code>..\Steam\steamapps\common\Hogwarts Legacy</code></li> <li><strong>Go to pakchunk0-windowsNoEditor.pak</strong></li> <li><strong>Extract .bin and .ufont files by right-clicking &gt; Export Raw Data</strong><br>
 .BIN files are located in <code>Phoenix\Content\Localization\WIN64</code><br>
