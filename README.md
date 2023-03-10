@@ -1,6 +1,8 @@
 # Hogwarts-Legacy-Dutch-text
 As my daughters aren't fluent yet in English, they found it welcome to use Dutch text instead of English.
-
+![image](https://staticdelivery.nexusmods.com/mods/5113/images/1027/1027-1678356565-474125648.jpeg)
+![image](https://staticdelivery.nexusmods.com/mods/5113/images/1027/1027-1678356685-446824560.jpeg)
+![image](https://staticdelivery.nexusmods.com/mods/5113/images/1027/1027-1678358782-639105711.jpeg)
 ## For native Dutch readers:
 Dit is een vertaling van alle text van Hogwarts Legacy in het Nederlands. 
 1. De eerste versies zijn een directe vertaling uit het Duits naar het Nederlands door Google translate. 
